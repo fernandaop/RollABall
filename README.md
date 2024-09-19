@@ -57,3 +57,10 @@ Fases:
 - Fase 2: O número de jogadores aumenta, e suas velocidades ficam mais altas, tornando o desafio maior. Quanto mais rápido você completar essa fase, mais pontos bônus você receberá.
   
 Acompanhamento em tempo real: Durante a partida, você pode monitorar sua pontuação atual, o tempo decorrido e quantas vidas restam. Ao final de cada fase, o tempo total e a pontuação são exibidos.
+
+Referências:
+https://youtu.be/zUUJZ8tH5_k?si=dKRJLePpw6x_w0RT
+https://youtu.be/syRVLH3PToA?si=Fgc9etA6zWLkRXkm
+https://youtu.be/K4uOjb5p3Io?si=h1gG10ataj6Gy44z
+https://youtu.be/ez9hYaGb7aI?si=r6AVQW0sCef3DhL1
+https://youtu.be/l7SwiFWOQqM?si=GEXmnzsbC1XbsbaH
