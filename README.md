@@ -1,15 +1,15 @@
 # Roll-a-Ball
 Fernanda de Oliveira Pereira
 
-Objetivo
+# Objetivo
 Roll-a-Ball é um projeto da matéria Jogos Digitais do 7 semestre de Engenharia da Computação do Insper. O projeto tem como objetivo o aprendizado da ferramenta Unity, a partir do tutorial "Roll-a-Ball", disponibilizado em https://learn.unity.com/project/roll-a-ball. Com a base do jogo criada, foi implementado algumas melhorias e expansões de funcionalidades no jogo.
 
-Descrição do jogo Roll-a-Ball - versão Dribble & Roll
+# Descrição do jogo Roll-a-Ball - versão Dribble & Roll
 Em "Dribble & Roll", você controla uma bola de futebol em uma partida nada convencional. Seu objetivo é driblar os jogadores de futebol que tentam impedi-lo de coletar os 12 cubos espalhados pelo campo, representando os pontos de vitória. Com apenas 3 vidas, você perde uma a cada vez que um jogador adversário encostar em você.
 Ao capturar todos os cubos, você avança para uma nova fase, onde o desafio aumenta com mais jogadores e velocidades ainda maiores. Um dos diferenciais é que, quanto mais rápido você capturar os cubos, mais pontos extras você receberá, incentivando uma jogabilidade estratégica que premia a agilidade e precisão.
 Durante o jogo, você pode monitorar sua pontuação e o tempo em tempo real. Ao concluir cada fase, seu tempo final e pontuação total serão exibidos, permitindo que você acompanhe seu desempenho.
 
-Funcionalidades Adicionadas
+# Funcionalidades Adicionadas
 1. Implementação Completa do Tutorial "Roll-a-Ball" (4 pontos): O tutorial oficial da Unity foi completamente concluído.
 
 2.Conquistando mais pontos - 
@@ -59,6 +59,7 @@ Fases:
 Acompanhamento em tempo real: Durante a partida, você pode monitorar sua pontuação atual, o tempo decorrido e quantas vidas restam. Ao final de cada fase, o tempo total e a pontuação são exibidos.
 
 Referências:
+
 https://youtu.be/zUUJZ8tH5_k?si=dKRJLePpw6x_w0RT
 https://youtu.be/syRVLH3PToA?si=Fgc9etA6zWLkRXkm
 https://youtu.be/K4uOjb5p3Io?si=h1gG10ataj6Gy44z
