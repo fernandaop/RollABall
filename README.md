@@ -42,7 +42,6 @@ Essa mecânica incentiva os jogadores a serem mais rápidos e estratégicos para
 
   2.6. Level Design
     2.7.1. Ajustar o jogo a algum tema ( +0.25 ~ 1.0): Foi aplicado um tema de Futebol, com jogadores, bola e campo simples, além de título e imagem no menu inicial.
-    2.7.2. Criar uma nova arena ou modificar a arena básica (+ 0.25 ~ 1.0): Foi criado uma segunda fase com mais inimigos.
     2.7.3. Adicionar novos desafios para o jogador (+ 0.25 ~1.0): O desafio da segunda fase aumentou, fazendo com que ele tenha inimigos mais rápidos e diminuindo seu espaço de movimentação.
 
 Instruções de Jogo
