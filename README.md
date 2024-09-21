@@ -42,6 +42,7 @@ Essa mecânica incentiva os jogadores a serem mais rápidos e estratégicos para
 
   2.6. Level Design
     2.7.1. Ajustar o jogo a algum tema ( +0.25 ~ 1.0): Foi aplicado um tema de Futebol, com jogadores, bola e campo simples, além de título e imagem no menu inicial.
+    2.7.2. Criar uma nova arena ou modificar a arena básica (+ 0.25 ~ 1.0): A arena da segunda fase foi modificada e extendida.
     2.7.3. Adicionar novos desafios para o jogador (+ 0.25 ~1.0): O desafio da segunda fase aumentou, fazendo com que ele tenha inimigos mais rápidos e diminuindo seu espaço de movimentação.
 
 Instruções de Jogo
@@ -53,7 +54,7 @@ Controles:
   
 Fases:
 - Fase 1: Colete os 12 cubos no campo enquanto evita os jogadores. Após pegar todos os cubos, você avança para a Fase 2.
-- Fase 2: O número de jogadores aumenta, e suas velocidades ficam mais altas, tornando o desafio maior. Quanto mais rápido você completar essa fase, mais pontos bônus você receberá.
+- Fase 2: O número de jogadores aumenta, e suas velocidades ficam mais altas, tornando o desafio maior. Também, existe uma segunda parte da fase. Subindo a rampa, temos o desafio final do jogo. Quanto mais rápido você completar essa fase, mais pontos bônus você receberá.
   
 Acompanhamento em tempo real: Durante a partida, você pode monitorar sua pontuação atual, o tempo decorrido e quantas vidas restam. Ao final de cada fase, o tempo total e a pontuação são exibidos.
 
